@@ -1,0 +1,67 @@
+
+body{
+  margin:0;
+  padding:0;
+  line-height: 1.5em;
+  background-color: #CCCCCC;
+  font-family:sans-serif;
+  padding:0;
+  margin:0 10px;
+  font-family:Verdana,sans-serif;
+
+}
+
+b{font-size: 110%;}
+   em{color: red;}
+
+#maincontainer{
+   width: 1200px; /*Width of main container*/
+   margin: 0 auto; /*Center container on page*/
+}
+
+#topsection{
+   background: #ffffff;
+   height: 120px; /*Height of top section*/
+}
+
+#topsection h1{
+  margin: 0;
+  padding-top: 0px;
+}
+
+#contentwrapper{
+float: left;
+width: 100%;
+}
+
+#contentcolumn{
+//margin-left: 320px; /*Set left margin to LeftColumnWidth*/
+padding: 5px;
+background-color: #ffffff;
+}
+
+#leftcolumn{
+float: left;
+width: 320px; /*Width of left column*/
+margin-left: -1200px; /*Set left margin to -(MainContainerWidth)*/
+background: #CCCC99;
+}
+
+#footer{
+clear: left;
+width: 100%;
+background: #003366;
+color: black;
+text-align: center;
+padding: 4px 0;
+}
+
+#footer a{
+color: #FFFF80;
+}
+
+.innertube{
+margin: 0px; /*Margins for inner DIV inside each column (to provide padding)*/
+margin-top: 0;
+}
+
