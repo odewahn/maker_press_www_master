@@ -32,7 +32,7 @@
 <table>
    <tr>
       <td> <img src="logo.png"/></td>
-      <td style="padding: 5px"> <h1><?echo $config["site_title"]; ?></h1></td>
+      <td style="padding: 5px"> <h1><?php echo $config["site_title"]; ?></h1></td>
    </tr>
 </table>
 
