@@ -42,7 +42,7 @@ background-color: #ffffff;
 
 #leftcolumn{
 float: left;
-width: 320px; /*Width of left column*/
+width: 20px; /*Width of left column*/
 margin-left: -1200px; /*Set left margin to -(MainContainerWidth)*/
 background: #CCCC99;
 }

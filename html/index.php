@@ -47,6 +47,9 @@
       <strong><a href="index.php?page=attach">Attach</a></strong>
    </li>
    <li>
+      <strong><a href="index.php?page=svgedit">Draw</a></strong>
+   </li>
+   <li>
       <strong><a href="index.php?page=suggest">Suggestions</a></strong>
    </li>
 </ul>
